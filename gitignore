@@ -1,0 +1,8 @@
+# APIキーなど機密情報
+config.py
+
+# Pythonが自動生成するキャッシュ
+__pycache__/
+
+# 音声ファイル（毎回生成される一時ファイル）
+weather.mp3
