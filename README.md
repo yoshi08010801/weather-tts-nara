@@ -58,7 +58,7 @@ python weather_tts.py
 
 ## 🎓 学習目的 / For Learning
 
-このツールは、Python 初心者の学習プロジェクトとして、**趣味で作成したものです。**  
+このツールは、Python 初心者の学習プロジェクトとして 
 This tool was created as a **hobby project** and part of a personal learning journey in Python.
 
 Feel free to use or modify it for your own practice!
@@ -74,5 +74,5 @@ Live recordings of coding and testing this tool are available on YouTube.
 ▶ https://youtube.com/live/6Bt9btue24g?feature=share  
 ▶ https://youtube.com/live/08X4HF0dQNU?feature=share
 
-※ 雑談や手直しなども含まれた学習ログです。  
+※ 学習ログです。  
 ※ These are relaxed, real-time learning sessions including casual work and trial & error.
